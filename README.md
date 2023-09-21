@@ -10,8 +10,8 @@ EPIC Kitchens dataset: The dataset and annotations can be downloaded from the [o
 
 Annotations are downloaded from the [link](https://utexas.box.com/shared/static/j4ets5j30c9gacjkmpve29jd3hsdkcmu.gz)
 
-Pre-processed selection frames can be downloaded OPRA from [Baidu Pan](https://pan.baidu.com/s/1scLEtDTd59aQgnTdL6OIbQ) (ktpt) ].
-and the EPIC dataset can be downloaded from [[Baidu Pan(https://pan.baidu.com/s/1PA0e6CIzIfcZRrPqZYiCSw)(myit)]]
+Pre-processed selection frames can be downloaded OPRA from [Baidu Pan](https://pan.baidu.com/s/1scLEtDTd59aQgnTdL6OIbQ) (ktpt) .
+and the EPIC dataset can be downloaded from [Baidu Pan(https://pan.baidu.com/s/1PA0e6CIzIfcZRrPqZYiCSw)(myit)]
 
 
 ##  Citation 
